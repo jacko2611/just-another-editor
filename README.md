@@ -54,3 +54,4 @@ To use this site, you simply go to the deployed application and either use it in
 ## **Deployment**
 
 Below is a link to the deployed site on heroku.
+https://just-another-text-editor2611.herokuapp.com/
